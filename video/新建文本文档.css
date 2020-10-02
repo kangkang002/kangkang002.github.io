@@ -26,3 +26,8 @@ div.topnav{
      word-spacing:30px;
      margin:20px;
 }
+ul li{
+     width:200px;
+     height:20px;
+     float:left;
+}
