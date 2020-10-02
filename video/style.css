@@ -28,6 +28,12 @@ div{
 #nav{
            width:150px;
 }
+div.pic{
+           border-width:1px;
+           border-style:solid;
+           border-color：white;
+           border-radius:5px;
+}
            
                   
            
