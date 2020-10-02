@@ -18,6 +18,18 @@ div{
            
            
 }
+#center{
+           display:table;
+           width:948px;
+}
+#nav,#content{
+           display:table-cell;
+}
+#nav{
+           width:150px;
+}
+           
+                  
            
 
 
