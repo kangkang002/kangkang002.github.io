@@ -4,7 +4,7 @@ body{
            margin-right:auto;
            border-width:1px;
            border-style:solid;
-           border-color:grey;
+           border-color:gray;
            border-radius:5px;
            padding-left:20px;
            padding-ringt:20px;
@@ -12,7 +12,7 @@ body{
 div{       
            border-width:1px;
            border-style:solid;
-           border-color:grey;
+           border-color:gray;
            border-radius:5px;
            margin:5px;
            
@@ -31,7 +31,7 @@ div{
 div.pic{
            border-width:1px;
            border-style:solid;
-           border-color:grey;
+           border-color:gray;
            border-radius:5px;
 }
            
