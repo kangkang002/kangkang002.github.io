@@ -21,6 +21,8 @@ div{
 #center{
            display:table;
            width:1400px;
+           border-style:solid;
+           border-color:gray;
 }
 #nav,#content{
            display:table-cell;
