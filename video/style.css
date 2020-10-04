@@ -20,7 +20,7 @@ div{
 }
 #center{
            display:table;
-           width:100%;
+           width:1400px;
 }
 #nav,#content{
            display:table-cell;
