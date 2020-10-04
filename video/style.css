@@ -33,6 +33,7 @@ div.pic{
            border-style:solid;
            border-color:gray;
            border-radius:5px;
+           width:1400px;
 }
 .info{
            color:white;
