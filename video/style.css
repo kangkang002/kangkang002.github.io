@@ -1,5 +1,5 @@
 body{
-           width:1400px;
+           width:960px;
            margin-left:auto;
            margin-right:auto;
            border-width:1px;
@@ -20,7 +20,7 @@ div{
 }
 #center{
            display:table;
-           width:1400px;
+           width:960px;
            border-style:solid;
            border-color:gray;
 }
@@ -28,14 +28,14 @@ div{
            display:table-cell;
 }
 #nav{
-           width:660px;
+           width:560px;
 }
 div.pic{
            border-width:1px;
            border-style:solid;
            border-color:gray;
            border-radius:5px;
-           width:1400px;
+           width:960px;
 }
 .info{
            color:white;
