@@ -9,7 +9,11 @@
  </head>
 <body>
   <div id="header">
-  <p><h1>"欢迎：好，很有精神！！！！！"</h1></p><p align="right"><div id="bu"><button type="button"onclick="document.getElementById('demo').innerHTML = Date()">点击这里来显示日期和时间</button>
+  <p><h1>"欢迎：好，很有精神！！！！！"</h1><p id="demo">如果你有精神就点这个！</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "没有劲！重来！"'>点击我！</button>
+
+   </p><p align="right"><div id="bu"><button type="button"onclick="document.getElementById('demo').innerHTML = Date()">点击这里来显示日期和时间</button>
 
 </p><p align=right id="demo">
 </div></p>
