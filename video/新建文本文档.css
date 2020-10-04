@@ -13,7 +13,7 @@ div h1{
      font-weight:bold;
 }
 h3{
-     color:purple
+     color:purple;
 }
 div.pic-end{
      clear:both;
@@ -25,6 +25,7 @@ div.topnav{
      color:blue;
      word-spacing:30px;
      margin:20px;
+     font-weight:bold;
 }
 ul li{
      width:200px;
