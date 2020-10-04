@@ -44,7 +44,18 @@ div.pic{
 #bu{
            text.align:right;
 }
-           
+a:link{
+           color:palevioletred
+            text-decoration:none
+}
+a:visited{
+           color:palevioletred
+            text-decoration:none
+}
+a:active{
+           color:cornflowerblue
+                      text-decoration:none
+}
            
                   
            
