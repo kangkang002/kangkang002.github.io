@@ -29,6 +29,7 @@ div.topnav{
      word-spacing:30px;
      margin:20px;
      font-weight:bold;
+     border-style:solid;
 }
 ul li{
      width:200px;
