@@ -20,7 +20,7 @@ div{
 }
 #center{
            
-           width:960px;
+           width:auto;
            border-style:solid;
            border-color:gray;
 }
@@ -29,14 +29,14 @@ div{
            border-style:solid;
 }
 #nav{
-           width:560px;
+           width:auto;
 }
 div.pic{
            border-width:1px;
            border-style:solid;
            border-color:gray;
            border-radius:5px;
-           width:960px;
+           width:auto;
 }
 .info{
            color:white;
